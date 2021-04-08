@@ -3,6 +3,8 @@ html, body{
     height: 100%;
 }
 
+/* Navigation Start */
+
 #nav {
     display: flex;
     justify-content: flex-end;
@@ -29,6 +31,10 @@ a:hover {
     background: red;
     border-radius: 50%;
 }
+
+/* Navigation End */
+
+/* Middle Start */
 
 #middle {
     flex-grow: 1;
@@ -116,6 +122,10 @@ body{
     border: 2px solid #eee;
 }
 
+/* Middle End */
+
+/* Footer Start */
+
 #footer-content{
     margin-top: 350px;
     background: #eee;
@@ -127,3 +137,5 @@ body{
     text-decoration: none;
     color: #333;
 }
+
+/* Footer End */
