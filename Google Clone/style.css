@@ -4,15 +4,13 @@ html, body{
     height: 100%;
 }
 
-<<<<<<< Updated upstream
+
 /* Navigation Start */
-=======
-<<<<<<< HEAD
+
 /* Nav Start */
-=======
+
 /* Navigation Start */
->>>>>>> e348ac3cab79cd669a213f486e84c97b682b10b4
->>>>>>> Stashed changes
+
 
 #nav {
     display: flex;
@@ -41,15 +39,13 @@ a:hover {
     border-radius: 50%;
 }
 
-<<<<<<< Updated upstream
+
 /* Navigation End */
-=======
-<<<<<<< HEAD
+
+
 /* Nav End */
-=======
+
 /* Navigation End */
->>>>>>> e348ac3cab79cd669a213f486e84c97b682b10b4
->>>>>>> Stashed changes
 
 /* Middle Start */
 
